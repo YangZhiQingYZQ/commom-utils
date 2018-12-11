@@ -1,0 +1,27 @@
+{		
+
+        "queryJSAPITicket" : "/commonController!queryJSAPITicket.action",
+
+        "getlist" : "/pointsShopController!getlist.action",
+
+        "getDetail" : "/pointsShopController!getDetail.action",
+
+        "getUserAddrList" :  "/userAddrController!getUserAddrList.action",
+
+        "doSave" : "/userAddrController!doSave.action",
+
+        "doDelete" : "/userAddrController!doDelete.action",
+
+        "pointsExchange" : "/pointsExchangeController!doSave.action",
+
+        "queryUserInfo" : "/usercenterController!queryUserInfo.action",
+
+        "initOpenId" : "/usercenterController!initOpenId.action",
+
+        "getPointsExchangeList" :  "/pointsExchangeController!getPointsExchangeList.action",
+
+        "getPointsExchangeById" : "/pointsExchangeController!getPointsExchangeById.action",
+
+        "getSignIn" : "/userSigninController!getSignIn.action"
+
+}
